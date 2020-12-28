@@ -1,0 +1,14 @@
+{
+    "forgeVersion":"1.12.2-14.23.5.2854",
+    "mods":{
+		"urls":[
+        ],
+        "curse":[
+			{   
+                "name": "Mekanism",
+                "projectId":"268560",
+                "fileId": "2835175"
+            }
+        ]    
+    }
+}
